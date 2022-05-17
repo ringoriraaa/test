@@ -1,0 +1,6 @@
+~$ ssh-keygen -t rsa -f ec2
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): (kD2Prmbc)
+Enter same passphrase again: (kD2Prmbc)
+Your identification has been saved in ec2.
+Your public key has been saved in ec2.pub.
